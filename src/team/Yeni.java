@@ -4,6 +4,9 @@ public class Yeni {
 
     //yeni kodlar yazdim
 
+    //mustafa saağıroğlu çalışması 1
+
+
     /*
     ne kadar zorlandım burada
     zor
@@ -17,6 +20,7 @@ public class Yeni {
     // yeni kodlar yazdim
     // git branch ile yeni bir branch aciyoruz
     // git checkout esra ile kendi branchimize gececegiz
+
 
 
 }
