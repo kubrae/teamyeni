@@ -4,6 +4,9 @@ public class Yeni {
 
     //yeni kodlar yazdim
 
+    // yazdım yazdım colabration
+
+
     //mustafa saağıroğlu çalışması
     /*
     ne kadar zorlandım burada
@@ -25,6 +28,7 @@ public class Yeni {
     // Mustafa sağıroğlu yeni1
 
 //esra yeni kod yazdi 
+
 
 
 }
