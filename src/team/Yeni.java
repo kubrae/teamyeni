@@ -18,5 +18,7 @@ public class Yeni {
     // git branch ile yeni bir branch aciyoruz
     // git checkout esra ile kendi branchimize gececegiz
 
+/*
 
+ */
 }
