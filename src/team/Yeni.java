@@ -4,9 +4,7 @@ public class Yeni {
 
     //yeni kodlar yazdim
 
-    //mustafa saağıroğlu çalışması 1
-
-
+    //mustafa saağıroğlu çalışması
     /*
     ne kadar zorlandım burada
     zor
