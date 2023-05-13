@@ -4,6 +4,10 @@ public class Yeni {
 
     //yeni kodlar yazdim
 
+    // yazdım yazdım colabration
+
+
+    //mustafa saağıroğlu çalışması
     /*
     ne kadar zorlandım burada
     zor
@@ -11,7 +15,9 @@ public class Yeni {
 
     //ilk collebrancion
     // git checkout Latife ile branch aktif hale gelir
-
+//hata aliyorum
+    //hata aliyorummmmm
+    // hataaaaaa
 
 
     // yeni kodlar yazdim
@@ -20,5 +26,16 @@ public class Yeni {
 
 /*
 
+
  */
+
+    // Mustafa sağıroğlu yeni1
+
+//esra yeni kod yazdi
+
+    //Mustafa sonuncu güncelleme
+
+
+
+
 }
