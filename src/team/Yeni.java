@@ -12,7 +12,9 @@ public class Yeni {
 
     //ilk collebrancion
     // git checkout Latife ile branch aktif hale gelir
-
+//hata aliyorum
+    //hata aliyorummmmm
+    // hataaaaaa
 
 
     // yeni kodlar yazdim
@@ -22,7 +24,7 @@ public class Yeni {
 
     // Mustafa sağıroğlu yeni1
 
-
+//esra yeni kod yazdi 
 
 
 }
