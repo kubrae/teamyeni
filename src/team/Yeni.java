@@ -2,6 +2,8 @@ package team;
 
 public class Yeni {
 
+
+
     //yeni kodlar yazdim
 
     // yazdım yazdım colabration
@@ -20,9 +22,12 @@ public class Yeni {
     // hataaaaaa
 
 
+
     // yeni kodlar yazdim
     // git branch ile yeni bir branch aciyoruz
     // git checkout esra ile kendi branchimize gececegiz
+
+
 
 /*
 
@@ -37,6 +42,7 @@ public class Yeni {
     
     
     // yeni deneme esra
+
 
 
 
