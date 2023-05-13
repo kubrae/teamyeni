@@ -24,12 +24,17 @@ public class Yeni {
     // git branch ile yeni bir branch aciyoruz
     // git checkout esra ile kendi branchimize gececegiz
 
+/*
+
+
+ */
 
     // Mustafa sağıroğlu yeni1
 
 //esra yeni kod yazdi
 
     //Mustafa sonuncu güncelleme
+
 
 
 
